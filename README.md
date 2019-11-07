@@ -58,4 +58,8 @@ git add​ ajoute de nouveaux objets blobs dans la base des objets pour chaque f
 git commit​ intègre la somme de contrôle SHA-1 d'un objet tree et les sommes de contrôle des objets commits parents pour créer un nouvel objet commit ;
 git branch​ liste les branches ;
 git merge​ fusionne une branche dans une autre ;
-git rebase​ déplace les c
+git rebase​ déplace les 
+
+c
+
+aaaa
